@@ -34,4 +34,4 @@ Register No. : 212224040329
 ![image](https://github.com/user-attachments/assets/591f59b7-74db-4d17-a7f8-7ee17743c68c)
 
 ## Result :
-
+The average number of material in the system and in the conveyor and waiting time are successfully found.
